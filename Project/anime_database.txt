@@ -1,0 +1,10 @@
+	Title: Naruto
+	Author: Masashi Kishimoto
+	Genre: Shonen
+	Episodes: 500
+
+	Title: as
+	Author: sa
+	Genre: er
+	Episodes: 12
+
